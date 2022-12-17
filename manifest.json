@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "dev.dg.ForgottenKeep",
+  "name": "ForgottenKeep",
+  "description": "A dark theme for Discord Replugged",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Made by Awish-Senpai, adapted by DatGuy",
+    "discordID": "",
+    "github": "DatGuy1"
   },
-  "version": "1.0.2",
+  "version": "3.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "DatGuy1/ForgottenKeep"
   },
   "license": "MIT",
   "type": "replugged-theme",
