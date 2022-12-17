@@ -6,7 +6,7 @@ ForgottenKeep focuses on making the Discord's default dark theme, even more dark
 
 ## Installation
 
-Download [this file](https://github.com/DatGuy1/ForgottenKeep/releases/latest/download/dev.replugged.ForgottenKeep.asar) to `%APPDATA%\Roaming\replugged\themes`
+Download [this file](https://github.com/DatGuy1/ForgottenKeep/releases/latest/download/dev.dg.ForgottenKeep.asar) to `%APPDATA%\Roaming\replugged\themes`
 
 ## Troubleshooting
 
