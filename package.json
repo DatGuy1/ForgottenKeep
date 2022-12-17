@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
+  "name": "ForgottenKeep",
   "version": "1.0.0",
-  "description": "A theme template",
+  "description": "ForgottenKeep - A dark theme for Discord Replugged",
   "engines": {
     "node": ">=14.0.0"
   },
@@ -14,8 +14,8 @@
     "lint:fix": "prettier ./src ./scripts --write"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Made by Awish#6969, adapted by DatGuy",
+  "license": "MIT",
   "devDependencies": {
     "@electron/asar": "^3.2.1",
     "@parcel/config-default": "^2.8.2",
